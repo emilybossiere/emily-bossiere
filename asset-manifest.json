@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/emily-bossiere/static/css/main.e2faf760.chunk.css",
+    "main.js": "/emily-bossiere/static/js/main.605da617.chunk.js",
+    "main.js.map": "/emily-bossiere/static/js/main.605da617.chunk.js.map",
+    "runtime~main.js": "/emily-bossiere/static/js/runtime~main.b304fb71.js",
+    "runtime~main.js.map": "/emily-bossiere/static/js/runtime~main.b304fb71.js.map",
+    "static/js/2.8db7fec4.chunk.js": "/emily-bossiere/static/js/2.8db7fec4.chunk.js",
+    "static/js/2.8db7fec4.chunk.js.map": "/emily-bossiere/static/js/2.8db7fec4.chunk.js.map",
+    "index.html": "/emily-bossiere/index.html",
+    "precache-manifest.ff0e7d5b6c889be7719696b687996d06.js": "/emily-bossiere/precache-manifest.ff0e7d5b6c889be7719696b687996d06.js",
+    "service-worker.js": "/emily-bossiere/service-worker.js",
+    "static/css/main.e2faf760.chunk.css.map": "/emily-bossiere/static/css/main.e2faf760.chunk.css.map",
+    "static/media/colorguess.png": "/emily-bossiere/static/media/colorguess.854f72d2.png",
+    "static/media/grabbag.png": "/emily-bossiere/static/media/grabbag.6aa0e8db.png",
+    "static/media/tictactoe.png": "/emily-bossiere/static/media/tictactoe.0a09f6e5.png"
+  }
+}
