@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/emily-bossiere/precache-manifest.535905769855c331b4eee039bdbd0430.js"
+  "/emily-bossiere/precache-manifest.82d8e58aa2d04176f3b25ff4b9c1fcb3.js"
 );
 
 self.addEventListener('message', (event) => {
