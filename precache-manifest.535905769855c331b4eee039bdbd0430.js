@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "371b0379af909714d7e0733ccb88ada5",
+    "revision": "51aa8aee658132bb3a7b363003364da3",
     "url": "/emily-bossiere/index.html"
   },
   {
-    "revision": "30dc55928a80a08438e0",
+    "revision": "c77dbee3ee1bd96c9dfb",
     "url": "/emily-bossiere/static/css/main.0d4dbb70.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/emily-bossiere/static/js/2.f2ec637a.chunk.js"
   },
   {
-    "revision": "30dc55928a80a08438e0",
-    "url": "/emily-bossiere/static/js/main.cef0b6e0.chunk.js"
+    "revision": "c77dbee3ee1bd96c9dfb",
+    "url": "/emily-bossiere/static/js/main.23054d82.chunk.js"
   },
   {
     "revision": "486eaa3816531b7073aa",
