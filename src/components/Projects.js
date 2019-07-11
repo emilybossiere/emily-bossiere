@@ -24,7 +24,7 @@ export default class Projects extends React.Component {
                       <p>Tic Tac Toe</p>
                       <hr className="hrr" />
                     </div>
-                    <div className="items price">
+                    <div className="items cap">
                       <p className="new">
                         A simple tic tac toe game created using JavaScript,
                         HTML, CSS, and Bootstrap. Features user vs. user
@@ -61,7 +61,7 @@ export default class Projects extends React.Component {
                       <p>Grab Bag</p>
                       <hr className="hrr" />
                     </div>
-                    <div className="items price">
+                    <div className="items cap">
                       <p>
                         Using iFixit.com’s API, created a “grab bag” for users
                         to search for devices they own and associate them with
@@ -98,7 +98,7 @@ export default class Projects extends React.Component {
                       <p>Color Guessing Game</p>
                       <hr className="hrr" />
                     </div>
-                    <div className="items price">
+                    <div className="items cap">
                       <p className="new">
                         A game that generates a randon RBG value with 3 or 6
                         different color blocks with which to match the value
