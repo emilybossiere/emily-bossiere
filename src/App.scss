@@ -1,0 +1,40 @@
+body {
+  background: #f5d9d5;
+  font-family: "Nunito", sans-serif;
+  height: 100%;
+}
+
+html {
+  height: 100%;
+  scroll-behavior: smooth;
+}
+
+
+.sectionTitle {
+  font-size: 22px;
+}
+
+
+
+.section {
+  margin: 50px auto;
+}
+
+.subSection {
+  margin: 15px 50px;
+  font-size: 17px;
+}
+
+#aboutMe {
+  margin-top: 100px;
+}
+
+.employer {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.employmentDetails {
+  line-height: 0;
+  margin-bottom: 25px;
+}
